@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrwael&label=Profile%20views&color=0e75b6&style=flat" alt="lrwael" /> </p>
 
-- 🔭 I’m currently studying <b>Computer Science</b>
+- 🔭 I’m currently studying **Computer Science**
 
 - 🌱 I’m currently learning **Network and Cloud Computing**
 
