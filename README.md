@@ -6,7 +6,7 @@
 </h1>
 <h5 align="center">
 <h3 align="center">Software engineering student at TEK-UP | Certified: PCAP</h3>
-
+<script src="https://tryhackme.com/badge/2666937"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrwael&label=Profile%20views&color=0e75b6&style=flat" alt="lrwael" /> </p>
 
 - 🔭 I’m currently studying **Computer Science**
