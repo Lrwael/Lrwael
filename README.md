@@ -6,7 +6,7 @@
 </h1>
 <h5 align="center">
 <h3 align="center">Cybersecurity Engineering Student at TEK-UP Certified: PCAP | RHCSA | RHCE</h3>
-<img src="https://tryhackme.com/badge/2666937">
+<img src="https://tryhackme-badges.s3.amazonaws.com/WAELlaroussi.png" alt="TryHackMe">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrwael&label=Profile%20views&color=0e75b6&style=flat" alt="lrwael" /> </p>
 
 - 🔭 I’m currently studying **Computer Science**
